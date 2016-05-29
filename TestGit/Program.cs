@@ -13,6 +13,7 @@ namespace TestGit
             int a;
             int b;
             int c;
+            int d;
         }
     }
 }
