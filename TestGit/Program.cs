@@ -11,10 +11,6 @@ namespace TestGit
         static void Main(string[] args)
         {
             int a;
-            int b;
-            int c;
-            int d;
-            int e;
         }
     }
 }
