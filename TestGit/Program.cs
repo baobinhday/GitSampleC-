@@ -14,6 +14,7 @@ namespace TestGit
             int b;
             int c;
             int d;
+            int e;
         }
     }
 }
