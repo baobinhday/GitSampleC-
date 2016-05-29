@@ -10,7 +10,8 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            // test
+            int a;
+            int b;
         }
     }
 }
